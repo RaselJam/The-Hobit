@@ -428,4 +428,7 @@ footer {
 	.main::after {
 		grid-column: 3 / 4;
 	}
+	.main {
+		max-width: 1500px
+	}
 }
